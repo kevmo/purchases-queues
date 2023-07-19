@@ -1,0 +1,11 @@
+{
+  "name": "publisher",
+  "version": "0.1.0",
+  "description": "Quick Kafka rundown.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
