@@ -7,3 +7,6 @@ Quick Kafka rundown.
 
 `npm start`
 `npm i --package-lock-only`
+
+
+`docker-compose up`
