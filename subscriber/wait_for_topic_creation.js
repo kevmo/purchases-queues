@@ -1,3 +1,6 @@
+// Ensure that the consumer doesn’t attempt 
+//to consume messages from the topic before the topic has been created.  
+
 const kafka = require('kafka-node');
 const client = new kafka.KafkaClient({
   kafkaHost:
